@@ -9,7 +9,7 @@ drtyauldman/drtyauldman is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-I am an 85 y/o (used to be) dirty old man.  I wrote my first prpogram in 1959 and was amazed that i could get paid for having so much fun.
+I am an 85 y/o (used to be) dirty old man.  I wrote my first program in 1959 and was amazed that i could get paid for having so much fun.
 I incurred brain damage in 2020 and i am re-training my brain by writing a web app using html, javascript, and PHP.  I want to learn
 node.js because PHP is not as enjoyable as javascript, eg 'explode' vs 'split'. I have written an app that runs on localhost using XAMPP 
 as an interface tool. Now I want to replace the PHP with node.js and am having difficulty getting the pieces to work together.  I have 
