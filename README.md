@@ -17,4 +17,5 @@ NODE.JS installed, and am running Apache and Mysql witn XAMPP. When i copy and r
 statement "var mysql = require('mysql');" I get a 'module not found message.  I believe it because i cant find it either! 
 
 your advice is appreciated
+
 jim murray
